@@ -8,5 +8,5 @@ I enjoy watching and following sports, and the Olympics bring many of those inte
 - [[summer-games/index|Summer Games]]
 - [[winter-games/index|Winter Games]]
 - [[major-achievements/index|Major Achievements]]
-- [[venues/index|Olympic Venues]]
+- [[olympic-venues/index|Olympic Venues]]
 - [[olympic-villages/index|Olympic Villages]]
