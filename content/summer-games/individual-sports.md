@@ -6,7 +6,7 @@ title: Individual Sports
 
 The first modern Summer Games in 1896 were largely built around individual sports, including Track and Field, cycling, fencing, gymnastics, shooting, swimming, tennis, weightlifting, and wrestling.
 
-![Track and Field athletes preparing to race at the 1896 Athens Summer Games](athens-1896-track-and-field.png)
+![Track and Field athletes preparing to race at the 1896 Athens Summer Games](athens-1896-track-and-field.PNG)
 
 **Track and Field competition at the first modern Summer Games in Athens, 1896.**  
 Source: Encyclopaedia Britannica
