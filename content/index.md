@@ -10,3 +10,7 @@ I enjoy watching and following sports, and the Olympics bring many of those inte
 - [[major-achievements/index|Major Achievements]]
 - [[olympic-venues/index|Olympic Venues]]
 - [[olympic-villages/index|Olympic Villages]]
+
+## Course Assignments
+
+- [[org-system-analysis|Analyzing the Smithsonian Institution's Organizing System]]
