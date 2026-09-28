@@ -7,8 +7,8 @@ date: 2026-09-28
 
 - [[history-of-the-summer-games|History of the Summer Games]]
 - [[summer-olympic-sports|Summer Olympic Sports]]
-- [[summer-team-sports|Team Sports]]
-- [[summer-individual-sports|Individual Sports]]
+- [[summer-team-sports|Summer Team Sports]]
+- [[summer-individual-sports|Summer Individual Sports]]
 - [[summer-olympic-competition|Summer Olympic Competition]]
 
 ## Related Categories
