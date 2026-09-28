@@ -1,9 +1,9 @@
 ---
-title: Individual Sports
+title: Winter Individual Sports
 date: 2026-09-28
 ---
 
-# Individual Sports
+# Winter Individual Sports
 
 The first Winter Games in Chamonix in 1924 included many sports centered on individual competition, including figure skating, speed skating, ski jumping, cross-country skiing, and Nordic combined. As the Winter Games developed, the Olympic program expanded to include additional individual sports and disciplines. Alpine skiing made its Olympic debut in 1936, biathlon followed in 1960, and luge was added in 1964. More recently, short track speed skating and freestyle skiing joined the program in 1992, snowboarding debuted in 1998, and ski mountaineering made its Olympic debut at Milano Cortina 2026.
 

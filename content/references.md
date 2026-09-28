@@ -14,7 +14,7 @@ International Olympic Committee. _Olympic Summer Games_. Historical Archives, Ol
 Used on: [[olympic-venues/index|Olympic Venues]]
 
 _Track and field competition at the first modern Summer Games in Athens, 1896_ [Photograph]. Encyclopaedia Britannica.
-Used on: [[summer-games/individual-sports|Individual Sports]]
+Used on: [[summer-individual-sports|Summer Individual Sports]]
 
 _Georgette Herbos and Georges Wagemans figure skating_ [Photograph]. Wikimedia Commons. [https://commons.wikimedia.org/wiki/File:Georgette_Herbos_and_Georges_Wagemans_figure_skating_(cropped).jpg](https://commons.wikimedia.org/wiki/File:Georgette_Herbos_and_Georges_Wagemans_figure_skating_\(cropped\).jpg)
 Used on: [[winter-games/history-of-the-winter-games|History of the Winter Games]]

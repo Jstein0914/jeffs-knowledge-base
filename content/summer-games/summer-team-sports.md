@@ -1,9 +1,9 @@
 ---
-title: Team Sports
+title: Summer Team Sports
 date: 2026-09-28
 ---
 
-# Team Sports
+# Summer Team Sports
 
 The first modern Summer Games in 1896 featured team events in gymnastics, including the parallel bars and horizontal bar team competitions, but the official Olympic program of sports and events did not yet include the major team sports associated with the Summer Games today. Team sports were added as the Games developed. Football (soccer) and water polo appeared in 1900, field hockey in 1908, basketball in 1936, and volleyball in 1964.
 

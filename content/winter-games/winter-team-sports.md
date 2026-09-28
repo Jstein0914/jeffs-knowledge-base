@@ -1,9 +1,9 @@
 ---
-title: Team Sports
+title: Winter Team Sports
 date: 2026-09-28
 ---
 
-# Team Sports
+# Winter Team Sports
 
 The first Winter Games in Chamonix in 1924 already included team competition, with ice hockey and curling both part of the program. Ice hockey had previously appeared at the 1920 Olympics before becoming part of the Winter Games, while curling was contested at Chamonix. Although the Winter Olympics include fewer team sports than the Summer Games, team competition is not limited to sports built entirely around teams. Sports that are primarily based on individual competition also include team events, such as relays and other team-based race formats.
 

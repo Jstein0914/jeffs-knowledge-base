@@ -15,8 +15,8 @@ Winter Olympic sports and disciplines can include multiple events that use diffe
 
 Winter Olympic sports can be grouped in different ways based on the type of activity, playing environment, and how athletes compete. Some sports can belong to more than one group. Ice hockey and curling are team sports played on ice, while figure skating and speed skating also take place on ice but use very different forms of competition. Some of these groups include:
 
-- **[[team-sports|Team sports]]:** ice hockey and curling
-- **[[individual-sports|Individual sports]]:** alpine skiing, biathlon, figure skating, speed skating, ski jumping, luge, skeleton, snowboarding, and ski mountaineering
+- **[[winter-team-sports|Winter team sports]]:** ice hockey and curling
+- **[[winter-individual-sports|Winter individual Sports]]:** alpine skiing, biathlon, figure skating, speed skating, ski jumping, luge, skeleton, snowboarding, and ski mountaineering
 - **Skiing sports:** alpine skiing, cross-country skiing, freestyle skiing, ski jumping, Nordic combined, and ski mountaineering
 - **Skating sports:** figure skating, speed skating, and short track speed skating
 - **Sliding sports:** bobsleigh, luge, and skeleton

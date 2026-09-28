@@ -1,9 +1,9 @@
 ---
-title: Individual Sports
+title: Summer Individual Sports
 date: 2026-09-28
 ---
 
-# Individual Sports
+# Summer Individual Sports
 
 The first modern Summer Games in 1896 were largely built around individual sports, including track and field, cycling, fencing, gymnastics, shooting, swimming, tennis, weightlifting, and wrestling.
 

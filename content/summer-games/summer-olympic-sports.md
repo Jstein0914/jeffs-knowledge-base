@@ -15,8 +15,8 @@ Summer Olympic sports can include multiple disciplines and events. Track and Fie
 
 Summer Olympic sports can be grouped in different ways based on the type of activity and how athletes compete. Some sports can belong to more than one group. Track and Field and Gymnastics are two prominent parts of the Summer Games and include both individual and team events. Other sports also cross categories, such as water polo, which is both a team and aquatic sport. Some of these groups include:
 
-- **[[team-sports|Team sports]]:** basketball, soccer, volleyball, field hockey, handball, rugby sevens, and water polo
-- **[[individual-sports|Individual sports]]:** track and field, swimming, gymnastics, tennis, golf, boxing, archery, and shooting
+- **[[summer-team-sports|Summer team sports]]:** basketball, soccer, volleyball, field hockey, handball, rugby sevens, and water polo
+- **[[summer-individual-sports|Summer individual sports]]:** track and field, swimming, gymnastics, tennis, golf, boxing, archery, and shooting
 - **Aquatic sports:** swimming, diving, water polo, artistic swimming, and marathon swimming
 - **Combat sports:** boxing, wrestling, judo, and taekwondo
 - **Racquet sports:** tennis, badminton, and table tennis
