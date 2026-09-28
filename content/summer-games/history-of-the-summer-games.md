@@ -1,5 +1,5 @@
 ---
-title: "title: History of the Summer Games"
+title: History of the Summer Games
 date: 2026-09-28
 ---
 
