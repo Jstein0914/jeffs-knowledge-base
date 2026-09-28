@@ -1,5 +1,6 @@
 ---
-title: History of the Summer Games
+title: "title: History of the Summer Games"
+date: 2026-09-28
 ---
 
 # History of the Summer Games
@@ -18,7 +19,7 @@ Over time, the Summer Games expanded by adding more countries, athletes, and eve
 
 ### Major Historical Events of the Summer Games
 
-The Summer Olympics have been affected by major historical events throughout their history. Wars, political conflicts, acts of terrorism, and even a global pandemic have interrupted or changed the Games. Some notable examples include:
+The Summer Olympics have been affected by major historical events throughout their history, including events that became important [[major-achievements/social-and-political-milestones|social and political milestones]]. Wars, political conflicts, acts of terrorism, and even a global pandemic have interrupted or changed the Games. Some notable examples include:
 
 - **1916, 1940, and 1944 Canceled Games:** The Summer Olympics were canceled during World War I and World War II.
 - **1936 Berlin Games:** The Olympics were held in Nazi Germany under Adolf Hitler, where the Nazi government used the Games to promote its image to an international audience.

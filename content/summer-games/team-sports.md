@@ -1,5 +1,6 @@
 ---
 title: Team Sports
+date: 2026-09-28
 ---
 
 # Team Sports

@@ -1,5 +1,6 @@
 ---
 title: Summer Olympic Sports
+date: 2026-09-28
 ---
 
 # Summer Olympic Sports

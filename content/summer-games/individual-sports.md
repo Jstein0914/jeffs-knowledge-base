@@ -1,21 +1,22 @@
 ---
 title: Individual Sports
+date: 2026-09-28
 ---
 
 # Individual Sports
 
-The first modern Summer Games in 1896 were largely built around individual sports, including Track and Field, cycling, fencing, gymnastics, shooting, swimming, tennis, weightlifting, and wrestling.
+The first modern Summer Games in 1896 were largely built around individual sports, including track and field, cycling, fencing, gymnastics, shooting, swimming, tennis, weightlifting, and wrestling.
 
 ![Track and Field athletes preparing to race at the 1896 Athens Summer Games](athens-1896-track-and-field.PNG)
 
-**Track and Field competition at the first modern Summer Games in Athens, 1896.**  
+**Track and field competition at the first modern Summer Games in Athens, 1896.**  
 Source: Encyclopaedia Britannica
 
 As the Summer Games developed, the Olympic program expanded to include additional individual sports. Golf and archery made their Olympic debuts in 1900, followed by boxing in 1904 and judo in 1964. More recently, skateboarding and sport climbing made their Olympic debuts at Tokyo 2020.
 
 ## Individual Competition in the Summer Olympics
 
-[[summer-olympic-competition|Individual Olympic competitions]] use different formats depending on the sport and event. Swimming and Track and Field races often begin with preliminary heats, and the fastest athletes or top finishers advance through later rounds to the final. Tennis and boxing use elimination brackets, where a loss can end an athlete's chance to advance. Gymnastics takes a different approach, with judges scoring routines based on factors such as difficulty and execution. Field events such as the long jump and shot put give athletes multiple attempts, with their best result used to determine placement.
+[[summer-olympic-competition|Individual Olympic competitions]] use different formats depending on the sport and event. Swimming and track and field races often begin with preliminary heats, and the fastest athletes or top finishers advance through later rounds to the final. Tennis and boxing use elimination brackets, where a loss can end an athlete's chance to advance. Gymnastics takes a different approach, with judges scoring routines based on factors such as difficulty and execution. Field events such as the long jump and shot put give athletes multiple attempts, with their best result used to determine placement.
 
 ### Major Olympic Individual Sports
 

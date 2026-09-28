@@ -1,5 +1,6 @@
 ---
 title: Summer Games
+date: 2026-09-28
 ---
 
 ## Summer Games Topics

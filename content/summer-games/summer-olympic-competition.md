@@ -1,5 +1,6 @@
 ---
 title: Summer Olympic Competition
+date: 2026-09-28
 ---
 
 # Summer Olympic Competition
@@ -12,4 +13,4 @@ Qualification for the Summer Games differs by sport. Each sport's International 
 
 ### Medals and the Olympic Podium
 
-Gold, silver, and bronze medals are generally awarded to the top three finishers in an Olympic event, but not every sport awards medals in exactly the same way. Some combat sports, including boxing, judo, taekwondo, and wrestling, award two bronze medals in each event. Ties can also change the medal results, depending on the rules of the sport. During the medal ceremony, the medalists take their places on the podium, the flags of their countries are raised, and the national anthem of the gold medalist's country is played.
+Gold, silver, and bronze medals are generally awarded to the top three finishers in an Olympic event, but not every sport awards medals in exactly the same way. Some combat sports, including boxing, judo, taekwondo, and wrestling, award two bronze medals in each event. Ties can also change the medal results, depending on the rules of the sport. During the medal ceremony, the medalists take their places on the podium, the flags of their countries are raised, and the national anthem of the gold medalist's country  is played.
